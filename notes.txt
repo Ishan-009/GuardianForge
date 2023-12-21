@@ -1,0 +1,4 @@
+// Updgrading Schema Issue :- 
+
+I changed schema of the user model than of the previous, added the role field to the user schema, then what should I do sync or align previous/old data as sync/align with my currently upto date schema 
+
