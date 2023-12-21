@@ -1,8 +1,9 @@
 # GuardianForge
 GuardianForge is a comprehensive Node.js application showcasing best practices in CRUD operations, authentication, middleware, and authorization. Designed for developers seeking a robust foundation for user management in their projects, 
 
-# GuardianForge
+**Important Note:** Initially, this project was intended for practice but evolved into a full-fledged project. As a result, I had to shift to a new repository for further development. If you want to refer to the original commits and detailed history, please visit the link :- https://github.com/Ishan-009/Harkirat-MERN-Cohort/tree/main/Week3/Nodejs/app1 ,  where this project was initially developed. Commits specific to this forked repository may not capture the complete project history.
 
+# GuardianForge
 GuardianForge is a robust Node.js application showcasing best practices in CRUD operations, authentication, middleware, and authorization. It serves as a comprehensive foundation for user management in your projects.
 
 ## Key Features
